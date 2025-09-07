@@ -1,0 +1,8 @@
+name: drupal10-demo-app
+recipe: drupal10
+config:
+  webroot: web
+services: 
+  appserver:
+    type: phpmyadmin
+
