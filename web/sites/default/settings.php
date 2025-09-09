@@ -906,3 +906,5 @@ $databases['default']['default'] = array (
 );
 $settings['config_sync_directory'] = 'sites/default/files/config_IsgkAuQGkM-uYL7Oct9YWlEiVglnLMX4Ebintr_y4wiE_ySfCzfqFQZ4XN8N0mpOcWqPRXqqmg/sync';
 $settings['config_sync_directory'] = '../config/global';
+//$settings['config_exclude_modules'] = ['devel', 'webprofiler'];
+$config['system.logging']['error_level'] = 'verbose';
