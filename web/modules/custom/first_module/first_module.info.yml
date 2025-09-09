@@ -1,0 +1,6 @@
+name: First module
+type: module
+description: 'First Custom Drupal 10 Module'
+core_version_requirement: ^10 || ^11
+package: Custom
+version: 1.0.0
