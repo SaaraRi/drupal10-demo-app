@@ -1,0 +1,7 @@
+react_list:
+  version: 1.x
+  js:
+    js/dist/assets/main.min.js: {}
+  dependencies:
+    - core/drupal
+    - core/drupalSettings

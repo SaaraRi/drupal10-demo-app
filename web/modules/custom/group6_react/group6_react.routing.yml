@@ -1,0 +1,7 @@
+group6_react.content:
+  path: "/group6-react"
+  defaults:
+    _controller: 'Drupal\group6_react\Controller\Group6ReactController::content'
+    _title: "Group 6 React"
+  requirements:
+    _permission: "access content"

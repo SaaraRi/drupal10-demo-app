@@ -1,9 +1,9 @@
 name: Icecream theme
 type: theme
 description: Custom Icecream theme
-base theme: olivero
-version: 0.0.1
+base theme: false
 core_version_requirement: ^10 || ^11
+version: 1.0.0
 libraries:
   - icecream_theme/global
 

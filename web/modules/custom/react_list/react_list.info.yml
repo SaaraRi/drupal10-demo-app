@@ -1,0 +1,8 @@
+name: 'React List'
+type: module
+description: 'A custom module for React integration'
+package: Custom
+core_version_requirement: ^10 || ^11
+version: 1.0.0
+dependencies:
+  - drupal:node
